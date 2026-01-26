@@ -24,12 +24,17 @@
   </a>
   
  
-  <a href="mailto:maria.aewoltmann@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1a1023?style=for-the-badge&logo=gmail&logoColor=ff8ccf" />
-   
-  </a>
+<a href="mailto:maria.aewoltmann@ufn.edu.br">
+  <img src="https://img.shields.io/badge/Gmail-ff8ccf?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+  
   <a href="https://www.linkedin.com/in/maria-antônia-espinosa-woltmann-000371391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff5fa2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="http://lattes.cnpq.br/http://lattes.cnpq.br/3597918817280909" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-ff8ccf?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   
 </p>
