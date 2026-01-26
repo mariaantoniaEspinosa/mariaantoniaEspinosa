@@ -4,13 +4,33 @@
 - 📚 Expected graduation: 2028
 - 🌼 Pronouns: she/her
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="140" align="center"
+      src="https://github-readme-stats.vercel.app/api?username=mariaantoniaEspinosa&rank_icon=github&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&icon_color=ff5fa2&border_color=5c2a4d" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="140" align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaantoniaEspinosa&layout=compact&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&border_color=5c2a4d&hide=jupyter%20notebook" />
+  </a>
+</p>
+
+
+<p align="center">
+ 
+  <a href="https://www.instagram.com/espinosaa_a/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff8ccf?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   
+ 
+  <a href="mailto:maria.aewoltmann@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a1023?style=for-the-badge&logo=gmail&logoColor=ff8ccf" />
+   
+  </a>
+  <a href="https://www.linkedin.com/in/maria-antônia-espinosa-woltmann-000371391/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff5fa2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</p>
+
