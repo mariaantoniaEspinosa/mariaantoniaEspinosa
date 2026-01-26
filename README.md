@@ -25,7 +25,7 @@
   
  
 <a href="mailto:maria.aewoltmann@ufn.edu.br">
-  <img src="https://img.shields.io/badge/Gmail-ff8ccf?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-ff8ccf?style=for-the-badge&logo=email&logoColor=white" />
 </a>
 
   
