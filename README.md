@@ -33,9 +33,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-ff5fa2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="http://lattes.cnpq.br/http://lattes.cnpq.br/3597918817280909" target="_blank">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-ff8ccf?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+<a href="http://lattes.cnpq.br/3597918817280909" target="_blank">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-ff8ccf?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
   
 </p>
 
