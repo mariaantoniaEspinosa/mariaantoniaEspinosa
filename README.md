@@ -1,4 +1,4 @@
-## Hi there, my mane is Maria Antônia ⭐
+## Hi there, my name is Maria Antônia ⭐
 
 - 👩🏻‍🎓 I’m a Computer Science Student at the Universidade Franciscana, Rio Grande do Sul, Brazil.
 - 📚 Expected graduation: 2028
