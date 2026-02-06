@@ -6,18 +6,27 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="140" align="center"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaantoniaEspinosa&rank_icon=github&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&icon_color=ff5fa2&border_color=5c2a4d" />
-
-
+    <img
+      height="140"
+      align="center"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mariaantoniaEspinosa&rank_icon=github&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&icon_color=ff5fa2&border_color=5c2a4d"
+    />
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
-   <img height="140" align="center"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=mariaantoniaEspinosa&layout=compact&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&border_color=5c2a4d&hide=jupyter%20notebook" 
-     />
+    <img
+      height="140"
+      align="center"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariaantoniaEspinosa&layout=compact&bg_color=1a1023&title_color=ff8ccf&text_color=f5d9ea&border_color=5c2a4d&hide=jupyter%20notebook"
+    />
   </a>
 </p>
+
+
+
+
+
+
 
 
 <p align="center">
