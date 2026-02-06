@@ -5,15 +5,10 @@
 - 🌼 Pronouns: she/her
 
 <p align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=mariaantoniaEspinosa&show_icons=true&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaantoniaEspinosa&layout=compact&hide_border=true&cache_seconds=86400"
-  />
+  <img src="https://img.shields.io/badge/GitHub-mariaantoniaEspinosa-black?logo=github" />
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-444" />
 </p>
+
 
 
 
